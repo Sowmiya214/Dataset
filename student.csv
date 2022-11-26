@@ -1,4 +1,4 @@
-_id,name,scores/0/score,scores/0/type,scores/1/score,scores/1/type,scores/2/score,scores/2/type
+_id,name,scores,type,scores,type,scores,type
 0,aimee Zank,1.463179737,exam,11.7827331,quiz,35.874035,homework
 1,Aurelia Menendez,60.06045071,exam,52.79790692,quiz,71.76133439,homework
 2,Corliss Zuk,67.03077096,exam,6.301851678,quiz,66.28344683,homework
